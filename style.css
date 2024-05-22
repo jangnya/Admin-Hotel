@@ -1,0 +1,19 @@
+.container .content-wrapper{
+    background-color: white;
+}
+.content-wrapper form{
+    
+    margin: 100px;
+}
+.form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.radio-button{
+    width: 4%;
+
+}
+.form-submit{
+    margin-top: 30px;
+}
